@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/testReact/static/css/main.143ee44d.chunk.css",
+    "main.js": "/github.io/testReact/static/js/main.6782199e.chunk.js",
+    "main.js.map": "/github.io/testReact/static/js/main.6782199e.chunk.js.map",
+    "runtime-main.js": "/github.io/testReact/static/js/runtime-main.ee874076.js",
+    "runtime-main.js.map": "/github.io/testReact/static/js/runtime-main.ee874076.js.map",
+    "static/js/2.b73e2fe8.chunk.js": "/github.io/testReact/static/js/2.b73e2fe8.chunk.js",
+    "static/js/2.b73e2fe8.chunk.js.map": "/github.io/testReact/static/js/2.b73e2fe8.chunk.js.map",
+    "index.html": "/github.io/testReact/index.html",
+    "precache-manifest.0d00b3f95bab98b7786cef9a4d604265.js": "/github.io/testReact/precache-manifest.0d00b3f95bab98b7786cef9a4d604265.js",
+    "service-worker.js": "/github.io/testReact/service-worker.js",
+    "static/css/main.143ee44d.chunk.css.map": "/github.io/testReact/static/css/main.143ee44d.chunk.css.map",
+    "static/js/2.b73e2fe8.chunk.js.LICENSE.txt": "/github.io/testReact/static/js/2.b73e2fe8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee874076.js",
+    "static/js/2.b73e2fe8.chunk.js",
+    "static/css/main.143ee44d.chunk.css",
+    "static/js/main.6782199e.chunk.js"
+  ]
+}
